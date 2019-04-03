@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IDEA_JAVA.iml" filepath="$PROJECT_DIR$/IDEA_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Lab2/Java_Lab2.iml" filepath="$PROJECT_DIR$/Java_Lab2/Java_Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Lab1/java_Lab1.iml" filepath="$PROJECT_DIR$/java_Lab1/java_Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_NET/java_NET.iml" filepath="$PROJECT_DIR$/java_NET/java_NET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Thread1/java_Thread1.iml" filepath="$PROJECT_DIR$/java_Thread1/java_Thread1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Thread2/java_Thread2.iml" filepath="$PROJECT_DIR$/java_Thread2/java_Thread2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Thread3/java_Thread3.iml" filepath="$PROJECT_DIR$/java_Thread3/java_Thread3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Thread3/sofrwareDesign_abstractFactory.iml" filepath="$PROJECT_DIR$/java_Thread3/sofrwareDesign_abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_ChainOfResponsibility/softwareDesign_ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/softwareDesign_ChainOfResponsibility/softwareDesign_ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Constructor/softwareDesign_Constructor.iml" filepath="$PROJECT_DIR$/softwareDesign_Constructor/softwareDesign_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Decorator/softwareDesign_Decorator.iml" filepath="$PROJECT_DIR$/softwareDesign_Decorator/softwareDesign_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Facade/softwareDesign_Facade.iml" filepath="$PROJECT_DIR$/softwareDesign_Facade/softwareDesign_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_FactoryMethod/softwareDesign_FactoryMethod.iml" filepath="$PROJECT_DIR$/softwareDesign_FactoryMethod/softwareDesign_FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_FlyWeight/softwareDesign_FlyWeight.iml" filepath="$PROJECT_DIR$/softwareDesign_FlyWeight/softwareDesign_FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Lab1/softwareDesign_Lab1.iml" filepath="$PROJECT_DIR$/softwareDesign_Lab1/softwareDesign_Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Lab2/softwareDesign_Lab2.iml" filepath="$PROJECT_DIR$/softwareDesign_Lab2/softwareDesign_Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Lab3/softwareDesign_Lab3.iml" filepath="$PROJECT_DIR$/softwareDesign_Lab3/softwareDesign_Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Prototype/softwareDesign_Prototype.iml" filepath="$PROJECT_DIR$/softwareDesign_Prototype/softwareDesign_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_Visitor/softwareDesign_Visitor.iml" filepath="$PROJECT_DIR$/softwareDesign_Visitor/softwareDesign_Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_abstractFactory/softwareDesign_abstractFactory.iml" filepath="$PROJECT_DIR$/softwareDesign_abstractFactory/softwareDesign_abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_abstractFactoryBasic/softwareDesign_abstractFactoryBasic.iml" filepath="$PROJECT_DIR$/softwareDesign_abstractFactoryBasic/softwareDesign_abstractFactoryBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_component/softwareDesign_component.iml" filepath="$PROJECT_DIR$/softwareDesign_component/softwareDesign_component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareDesign_iterator/softwareDesign_iterator.iml" filepath="$PROJECT_DIR$/softwareDesign_iterator/softwareDesign_iterator.iml" />
+    </modules>
+  </component>
+</project>
